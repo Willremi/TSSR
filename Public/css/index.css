@@ -48,6 +48,10 @@ p, strong, span, a, .card-body>ul, .title {
     font-family: var(--roboto) !important;
 }
 
+/* .card-body > p {
+    font-size: 16px;
+} */
+
 #activity {
     color: var(--red);
     opacity: .7;

@@ -6,6 +6,9 @@
         <div class="section" id="about">
             <?php require_once('profil/bio.php'); ?>
         </div>
+        <div class="section" id="formation">
+            <?php require_once('profil/formation.php'); ?>
+       </div>
     </div>
 
 </div>
