@@ -11,7 +11,9 @@
        </div>
        <div class="section" id="experience">
             <?php require_once('profil/experience.php'); ?>
-       </div> 
+       </div>
+       <div class="section" id="competence">
+          <?php require_once('profil/competence.php'); ?>
+       </div>
     </div>
-
 </div>
