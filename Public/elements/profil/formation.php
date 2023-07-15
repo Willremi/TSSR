@@ -12,7 +12,7 @@
                 <div class="card-body">
                     <div id="titleFormation">
                         <div class="h5">Technicien Supérieur Systèmes et Réseaux</div>
-                        <p class="category">AFCI - Arras</p>
+                        <p class="category">AFCI - Arras (62)</p>
                     </div>
                     <hr id="formations">
                     <ul>
@@ -59,7 +59,7 @@
                 <div class="card-body">
                     <div id="titleFormation">
                         <div class="h5">Développeur Web et Web Mobile</div>
-                        <p class="category">AFPA - Liévin</p>
+                        <p class="category">AFPA - Liévin (62)</p>
                     </div>
                     <hr id="formations">
                     <ul>
@@ -86,7 +86,7 @@
                 <div class="card-body">
                     <div id="titleFormation">
                         <div class="h5">Développeur Web</div>
-                        <p class="category">PopSchool Lens</p>
+                        <p class="category">PopSchool - Lens (62)</p>
                     </div>
                     <hr id="formations">
                     <ul>
@@ -111,7 +111,7 @@
                 <div class="card-body">
                     <div id="titleFormation">
                         <div class="h5">Technicien en Contrôle Non Destructif</div>
-                        <p class="category">AFPA - Liévin</p>
+                        <p class="category">AFPA - Liévin (62)</p>
                     </div>
                     <hr id="formations">
                     <ul>
@@ -136,7 +136,7 @@
                 <div class="card-body">
                     <div id="titleFormation">
                         <div class="h5">BTS Génie Optique</div>
-                        <p class="category">Lycée Gustave Eiffel - Armentières</p>
+                        <p class="category">Lycée Gustave Eiffel - Armentières (59)</p>
                     </div>
                     <hr id="formations">
                     <ul>
@@ -161,7 +161,7 @@
                 <div class="card-body">
                     <div id="titleFormation">
                         <div class="h5">BTS Techniques physiques pour l'industrie et les laboratoires</div>
-                        <p class="category">Lycée Gustave Eiffel - Armentières</p>
+                        <p class="category">Lycée Gustave Eiffel - Armentières (59)</p>
                     </div>
                     <hr id="formations">
                     <ul>
@@ -185,7 +185,7 @@
                 <div class="card-body">
                     <div id="titleFormation">
                         <div class="h5">BAC Sciences de Technologies et de Laboratoire</div>
-                        <p class="category">Lycée Henri Darras - Liévin</p>
+                        <p class="category">Lycée Henri Darras - Liévin (62)</p>
                     </div>
                     <hr id="formations">
                     <ul>

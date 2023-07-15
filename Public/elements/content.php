@@ -9,6 +9,9 @@
         <div class="section" id="formation">
             <?php require_once('profil/formation.php'); ?>
        </div>
+       <div class="section" id="experience">
+            <?php require_once('profil/experience.php'); ?>
+       </div> 
     </div>
 
 </div>
