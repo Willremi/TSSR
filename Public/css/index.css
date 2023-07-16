@@ -83,7 +83,7 @@ li, #activity {
     font-weight: bold;
 }
 
-.technos {
+.technos, .applis, .os {
     border: 1px var(--green) solid;
     background-color: var(--green);
     padding: 2px 12px;
@@ -92,6 +92,7 @@ li, #activity {
     font-family: var(--roboto);
     font-weight: 800;
 }
+
 
 #cisco {
     font-family: var(--roboto);
