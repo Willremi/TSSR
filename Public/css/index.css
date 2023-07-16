@@ -42,6 +42,7 @@ hr {
 
 #ligneCompetence {
     border-top: 3px solid var(--red);
+    width: 75%;
 }
 
 p, strong, span, a, .card-body>ul, .title {
@@ -82,34 +83,20 @@ li, #activity {
     font-weight: bold;
 }
 
-/* .ck-editor__editable {
-    min-height: 150px !important;
-    
-} */
-
-/* #commentaire {
-    padding-left: 15%;
-} */
-
-#logos>a {
-    text-decoration: none;
+.technos {
+    border: 1px var(--green) solid;
+    background-color: var(--green);
+    padding: 2px 12px;
+    border-radius: 5px;
+    color: white;
+    font-family: var(--roboto);
+    font-weight: 800;
 }
 
-#logos>a>img {
-    margin-bottom: 2%;
-    width: 10%;
-    height: auto;
-}
-
-#os>img {
-    width: 30%;
-    height: auto;
-}
-
-#tools>img {
-    margin: 0 5px;
-    width: 14%;
-    height: auto;
+#cisco {
+    font-family: var(--roboto);
+    font-size: 16px;
+    font-weight: 600;
 }
 
 /* Formulaire de contact */
