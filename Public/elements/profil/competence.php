@@ -47,10 +47,29 @@
             <div class="col-lg-6">
             <h5 class="card-title">Logiciels de virtualisation</h5>
                 <hr>
-                <div class="d-flex justify-content-around">
-                    <div class="applis">VMWare</div>
-                    <div class="applis">HyperV</div>
-                    <div class="applis">Virtualbox</div>
+                <div class="d-flex justify-content-center">
+                    <div class="virtual mx-2">VMWare</div>
+                    <div class="virtual mx-2">HyperV</div>
+                    <div class="virtual mx-2">Virtualbox</div>
+                </div>
+            </div>
+        </div> 
+        <div id="ligneCompetence" class="my-4 mx-auto"></div>
+        <div class="row">
+            <div class="col-lg-6">
+            <h5 class="card-title">Logiciels de programmation</h5>
+                <hr>
+                <div class="d-flex justify-content-center">
+                    <div class="applis mx-2">Powershell</div>
+                    <div class="applis mx-2">Terminal</div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h5 class="card-title">Base de données</h5>
+                <hr>
+                <div class="d-flex justify-content-center">
+                    <div class="technos mx-2">MariaDB</div>
+                    <div class="technos mx-2">ActiveDirecotry</div>
                 </div>
             </div>
         </div>  

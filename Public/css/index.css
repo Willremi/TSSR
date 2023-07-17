@@ -83,9 +83,29 @@ li, #activity {
     font-weight: bold;
 }
 
-.technos, .applis, .os {
-    border: 1px var(--green) solid;
-    background-color: var(--green);
+.technos {
+    border: 1px gray solid;
+    background-color: gray;
+}
+
+.applis {
+    border: 1px orange solid;
+    background-color: orange;
+}
+
+.os {
+    border: 1px violet solid;
+    background-color: violet;
+}
+
+.virtual {
+    border: 1px rgb(135, 168, 14) solid;
+    background-color: rgb(135, 168, 14);
+}
+
+
+
+.technos, .applis, .os, .virtual {
     padding: 2px 12px;
     border-radius: 5px;
     color: white;
