@@ -15,7 +15,7 @@
                         <p class="category">AFCI - Arras (62)</p>
                     </div>
                     <hr id="formations">
-                    <p><span id="activity">Certifications en cours :</span> CCNA Cisco Introduction to networks</p>
+                    <p id="certif"><span>Certifications en cours :</span> CCNA Cisco Introduction to networks</p>
 
                     <ul>
                         <li>Assister les utilisateurs en centre de services</li>

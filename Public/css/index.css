@@ -27,6 +27,18 @@ hr {
     border-top: 3px solid var(--green);
 }
 
+#certif {
+    font-family: var(--roboto);
+    font-weight:500;
+}
+
+#certif > span {
+    color: rgb(224, 83, 18);
+    font-weight: 500;
+    text-decoration: gray underline;
+    text-underline-offset: 4px;
+}
+
 #bio, #job {
     color: var(--blue);
 }
@@ -102,8 +114,6 @@ li, #activity {
     border: 1px rgb(135, 168, 14) solid;
     background-color: rgb(135, 168, 14);
 }
-
-
 
 .technos, .applis, .os, .virtual {
     padding: 2px 12px;

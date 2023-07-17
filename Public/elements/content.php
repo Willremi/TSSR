@@ -15,5 +15,8 @@
        <div class="section" id="competence">
           <?php require_once('profil/competence.php'); ?>
        </div>
+       <div class="section" id="contact">
+          <?php require_once('profil/contact.php'); ?>
+       </div>
     </div>
 </div>
