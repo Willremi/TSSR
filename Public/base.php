@@ -1,3 +1,9 @@
+<?php 
+if($_SERVER['REQUEST_URI'] === "/index.php") {
+  header('Location: '. '/');
+}
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -53,8 +59,15 @@
   <script src="Public/js/core/bootstrap.min.js"></script>
   <script src="Public/js/now-ui-kit.js?v=1.1.0"></script>
   <script src="Public/js/aos.js"></script>
-
+  <script src="https://www.google.com/recaptcha/api.js?render=6LfoXTAnAAAAACU8HwagoM6gCzu2yoqyTa_kZXMS"></script>
   <script src="Public/js/main.js"></script>
+  <script>
+grecaptcha.ready(function() {
+    grecaptcha.execute('6LfoXTAnAAAAACU8HwagoM6gCzu2yoqyTa_kZXMS', {action: 'homepage'}).then(function(token) {
+        document.getElementById('recaptchaResponse').value = token
+    });
+});
+</script>
 </body>
 
 </html>
