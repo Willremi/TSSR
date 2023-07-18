@@ -27,7 +27,7 @@
                     <div class="applis">GLPI</div>
                     <div class="applis">OCS Inventory</div>
                     <div class="applis">Microsoft 365 (Teams, Word, Excel, PPT)</div>
-                    <div class="applis">Teamwiever</div>
+                    <div class="applis">TeamViewer</div>
                     <div class="applis">AnyDesk</div>
                 </div>
             </div>
