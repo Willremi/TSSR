@@ -27,14 +27,14 @@
                     <div class="applis">GLPI</div>
                     <div class="applis">OCS Inventory</div>
                     <div class="applis">Microsoft 365 (Teams, Word, Excel, PPT)</div>
-                    <div class="applis">TeamViewer</div>
+                    <!-- <div class="applis">TeamViewer</div> -->
                     <div class="applis">AnyDesk</div>
                 </div>
             </div>
         </div>
         <div id="ligneCompetence" class="my-4 mx-auto"></div>
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-9">
                 <h5 class="card-title">Systèmes d'exploitation</h5>
                 <hr>
                 <div class="d-flex justify-content-around">
@@ -42,10 +42,11 @@
                     <div class="os">MacOS</div>
                     <div class="os">Linux (Debian)</div>
                     <div class="os">Windows Server 2016</div>
+                    <div class="os">PFsense</div>
                 </div>
             </div>
-            <div class="col-lg-6">
-            <h5 class="card-title">Logiciels de virtualisation</h5>
+            <div class="col-lg-3">
+            <h5 class="card-title">Virtualisation</h5>
                 <hr>
                 <div class="d-flex justify-content-center">
                     <div class="virtual mx-2">VMWare</div>
@@ -59,7 +60,7 @@
             <div class="col-lg-6">
             <h5 class="card-title">Logiciels de programmation</h5>
                 <hr>
-                <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-around">
                     <div class="applis mx-2">Powershell</div>
                     <div class="applis mx-2">Terminal</div>
                 </div>
@@ -67,7 +68,7 @@
             <div class="col-lg-6">
                 <h5 class="card-title">Base de données</h5>
                 <hr>
-                <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-around">
                     <div class="technos mx-2">MariaDB</div>
                     <div class="technos mx-2">ActiveDirecotry</div>
                 </div>
