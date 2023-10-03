@@ -31,7 +31,7 @@ if($_SERVER['REQUEST_URI'] === "/index.php") {
           </div>
           <div class="collapse navbar-collapse justify-content-end" id="navigation">
             <ul class="navbar-nav">
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">À propose de moi</a></li>
+              <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">À propos de moi</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#formation">Formations</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Expériences professionnelles</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#competence">Compétences</a></li>
