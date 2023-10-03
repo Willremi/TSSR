@@ -70,7 +70,7 @@
                 <hr>
                 <div class="d-flex justify-content-around">
                     <div class="technos mx-2">MariaDB</div>
-                    <div class="technos mx-2">ActiveDirecotry</div>
+                    <div class="technos mx-2">ActiveDirectory</div>
                 </div>
             </div>
         </div>  
