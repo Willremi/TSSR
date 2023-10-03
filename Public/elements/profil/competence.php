@@ -38,10 +38,10 @@
                 <h5 class="card-title">Systèmes d'exploitation</h5>
                 <hr>
                 <div class="d-flex justify-content-around">
-                    <div class="os">Windows 10</div>
+                    <div class="os">Windows (10, Server 2016)</div>
                     <div class="os">MacOS</div>
                     <div class="os">Linux (Debian)</div>
-                    <div class="os">Windows Server 2016</div>
+                    <!-- <div class="os">Windows Server 2016</div> -->
                     <div class="os">PFsense</div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
                 <div class="d-flex justify-content-center">
                     <div class="virtual mx-2">VMWare</div>
                     <div class="virtual mx-2">HyperV</div>
-                    <div class="virtual mx-2">Virtualbox</div>
+                    <!-- <div class="virtual mx-2">Virtualbox</div> -->
                 </div>
             </div>
         </div> 
