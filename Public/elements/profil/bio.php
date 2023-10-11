@@ -14,11 +14,11 @@
                     <div class="h4 mt-0 title" id="bio">Bio</div>
                     <hr class="mb-4">
                     <div class="row">
-                        <div class="col-sm-8"><strong class="text-uppercase">Email :</strong></div>
+                        <div class="col-sm-6"><strong class="text-uppercase">Email :</strong></div>
                         <div class="col-sm-4"><a href="mailto:wi11remi@wiremi.fr">wi11remi@wiremi.fr</a></div>
                     </div>
                     <div class="row mt-3">
-                        <div class="col-sm-8"><strong class="text-uppercase">Adresse :</strong></div>
+                        <div class="col-sm-6"><strong class="text-uppercase">Adresse :</strong></div>
                         <div class="col-sm-4"><span>Liévin</span></div>
                     </div>
                 </div>
