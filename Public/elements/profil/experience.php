@@ -1,5 +1,29 @@
 <div class="container cc-experience">
     <div class="h4 text-center mb-4 title">Expériences professionnelles</div>
+
+    <div class="card">
+        <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-experience-header">
+                    <p>13/11/2023 au 12/01/2024</p>
+                    <div class="h5">Mairie - Liévin</div>
+                </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                    <div class="h5" id="job">Technicien systèmes et réseaux</div>
+                    <hr>
+                    <ul>
+                        <li>En cours</li>
+                        <!-- <li>Installation de Windows sur des ordinateurs</li>
+                        <li>Installation et dépannage des imprimantes</li>
+                        <li>Dépannage du réseau internet</li> -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="card">
         <div class="row">
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
