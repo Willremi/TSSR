@@ -50,7 +50,7 @@
                 <hr>
                 <div class="d-flex justify-content-center">
                     <div class="virtual mx-2">VMWare</div>
-                    <div class="virtual mx-2">HyperV</div>
+                    <div class="virtual mx-2">Hyper-V</div>
                     <!-- <div class="virtual mx-2">Virtualbox</div> -->
                 </div>
             </div>
