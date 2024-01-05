@@ -15,6 +15,10 @@ body {
     color: var(--black);
 }
 
+.fa-brands {
+	padding-top: 28px;
+}
+
 .card-body.cc-experience-header {
     padding-top: 50px;
 }
@@ -155,6 +159,10 @@ li, #activity {
 
 .navbar, .btn {
     font-weight: 700 !important;
+}
+
+.cc-twitter > .fa-brands {
+    padding-top: 0 !important;
 }
 
 @media screen and (max-width: 900px) {

@@ -10,7 +10,11 @@
     </div>
     <div class="section">
       <div class="container">
-        <div class="button-container"><a class="btn btn-default btn-round btn-lg btn-icon" href="https://twitter.com/RmiWill" rel="tooltip" title="Mon Twitter"><i class="fa fa-twitter"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.linkedin.com/in/willremi" rel="tooltip" title="Mon Linkedin"><i class="fa fa-linkedin"></i></a></div>
+        <div class="button-container">
+          <a class="btn btn-default btn-round btn-lg btn-icon" href="https://twitter.com/RmiWill" rel="tooltip" title="Mon Twitter"><i class="fa-brands fa-x-twitter fa-2xl"></i></a>
+          <!-- <a class="btn btn-default btn-round btn-lg btn-icon" href="https://twitter.com/RmiWill" rel="tooltip" title="Mon Twitter"><i class="fa fa-twitter"></i></a> -->
+          <a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.linkedin.com/in/willremi" rel="tooltip" title="Mon Linkedin"><i class="fa fa-linkedin"></i></a>
+        </div>
       </div>
     </div>
   </div>

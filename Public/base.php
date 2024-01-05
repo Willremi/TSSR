@@ -14,6 +14,7 @@ if($_SERVER['REQUEST_URI'] === "/index.php") {
   <title>Rémi Willebrouck</title>
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/3dadeeb8e7.js" crossorigin="anonymous"></script>
   <link href="Public/css/aos.css" rel="stylesheet">
   <link href="Public/css/bootstrap.min.css" rel="stylesheet">
   <link href="Public/css/main.css" rel="stylesheet">
@@ -48,7 +49,7 @@ if($_SERVER['REQUEST_URI'] === "/index.php") {
   <?php require_once('elements/content.php'); ?>
 
   <footer class="footer">
-    <div class="container text-center"><a class="cc-twitter btn btn-link " href="https://twitter.com/RmiWill"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-linkedin btn btn-link" href="https://www.linkedin.com/in/willremi"><i class="fa fa-linkedin fa-2x " aria-hidden="true"></i></a></div>
+    <div class="container text-center"><a class="cc-twitter btn btn-link " href="https://twitter.com/RmiWill"><i class="fa-brands fa-x-twitter fa-2xl" aria-hidden="true"></i></a><a class="cc-linkedin btn btn-link" href="https://www.linkedin.com/in/willremi"><i class="fa fa-linkedin fa-2x " aria-hidden="true"></i></a></div>
     <div class="h4 title text-center">Rémi Willebrouck</div>
     <!-- <div class="text-center text-muted">
         <p>&copy; Creative CV. All rights reserved.<br>Design - <a class="credit" href="https://templateflip.com" target="_blank">TemplateFlip</a></p>
