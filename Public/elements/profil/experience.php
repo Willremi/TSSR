@@ -14,10 +14,9 @@
                     <div class="h5" id="job">Technicien systèmes et réseaux</div>
                     <hr>
                     <ul>
-                        <li>En cours</li>
-                        <!-- <li>Installation de Windows sur des ordinateurs</li>
-                        <li>Installation et dépannage des imprimantes</li>
-                        <li>Dépannage du réseau internet</li> -->
+                        <li>Envoie de mail par formulaire sur powershell</li>
+                        <li>Création de serveur de fichiers sous Linux (Debian 12)</li>
+                        <li>Dépploiement de Windows par MDT (Microsoft Deployment Toolkit)</li>
                     </ul>
                 </div>
             </div>
