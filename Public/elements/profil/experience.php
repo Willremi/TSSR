@@ -5,6 +5,25 @@
         <div class="row">
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
+                    <p>25/04/2024 au 19/04/2024</p>
+                    <div class="h5">Helpline - Marcq-en-Baroeul</div>
+                </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                    <div class="h5" id="job">Technicien informatique</div>
+                    <hr>
+                    <ul>
+                        <li>Réponse aux appels concernant les problèmes sur la migration de mail</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-experience-header">
                     <p>13/11/2023 au 12/01/2024</p>
                     <div class="h5">Mairie - Liévin</div>
                 </div>
