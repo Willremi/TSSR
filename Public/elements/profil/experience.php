@@ -13,8 +13,11 @@
                 <div class="card-body">
                     <div class="h5" id="job">Technicien informatique</div>
                     <hr>
+                    <p id="activity">Prise en charge des utilisteurs travaillant pour Emeis (ex-Orpea) sur le changement de nom</p>
                     <ul>
-                        <li>Réponse aux appels concernant les problèmes sur la migration de mail</li>
+                        <!-- <li>Réponse aux appels concernant les problèmes sur la migration de mail pour un établissement qui change de nom</li> -->
+                        <!-- <li>Prise en charge des utilisteurs travaillant pour Emeis concernant les incidents sur la migration de mails</li> -->
+                        <li></li>
                     </ul>
                 </div>
             </div>
