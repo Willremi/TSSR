@@ -15,10 +15,9 @@
                     <hr>
                     <p id="activity">Prise en charge des utilisteurs travaillant pour Emeis (ex-Orpea) sur le changement de nom</p>
                     <ul>
-                        <!-- <li>Réponse aux appels concernant les problèmes sur la migration de mail pour un établissement qui change de nom</li> -->
-                        <!-- <li>Prise en charge des utilisteurs travaillant pour Emeis concernant les incidents sur la migration de mails</li> -->
                         <li>Outlook - Affichage de l'ancien mail, problèmes de connexions, de synchronisations, de réceptions et d'envois de mails</li>
                         <li>Teams - Affichage de l'ancien mail, problèmes de connexions</li>
+                        <li>OneDrive, OneNote - Problème de synchronisation et emplacements des fichiers obsolètes</li>
                     </ul>
                 </div>
             </div>
