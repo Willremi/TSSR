@@ -77,7 +77,7 @@ p, strong, span, a, .card-body>ul, .title {
     text-underline-offset: 4px;
 }
 
-li, #activity {
+li, #activity, .device {
     font-size: 16px;
 }
 

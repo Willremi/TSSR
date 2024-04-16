@@ -4,7 +4,7 @@
     <div class="card">
         <div class="row">
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-                <div class="card-body cc-experience-header">
+                <div class="card-body cc-experience-header" style="margin-top: 50%;">
                     <p>25/04/2024 au 19/04/2024</p>
                     <div class="h5">Helpline - Marcq-en-Baroeul</div>
                 </div>
@@ -14,10 +14,18 @@
                     <div class="h5" id="job">Technicien informatique</div>
                     <hr>
                     <p id="activity">Prise en charge des utilisteurs travaillant pour Emeis (ex-Orpea) sur le changement de nom</p>
+                    <strong class="device">Sur les ordinateurs de bureau ou portable</strong>
                     <ul>
-                        <li>Outlook - Affichage de l'ancien mail, problèmes de connexions, de synchronisations, de réceptions et d'envois de mails</li>
-                        <li>Teams - Affichage de l'ancien mail, problèmes de connexions</li>
-                        <li>OneDrive, OneNote - Problème de synchronisation et emplacements des fichiers obsolètes</li>
+                        <li>Outlook - Résolution sur l'affichage de l'ancien mail, des incidents de connexions, de synchronisations, de réceptions et d'envois de mails</li>
+                        <li>Teams - Résolution sur l'affichage de l'ancien mail, des incidents de connexions</li>
+                        <li>OneDrive, OneNote - Résolution des incidents de synchronisation et emplacements des fichiers obsolètes</li>
+                        <li>Citrix - Résolution sur les incidents de connexions</li>
+                        <li>Windows - Résolution d'incidents sur les accès de session</li>
+                        <li>Cisco Jabber - Résolution d'incidents de connexions</li>
+                    </ul>
+                    <strong class="device">Sur les smartphones professionnelles</strong>
+                    <ul>
+                        <li>Boxer - Insister l'utilisateur à utiliser l'application mail BOXER sur les smartphones professionnelles Android, résoudre les incidents de connexions</li>
                     </ul>
                 </div>
             </div>
