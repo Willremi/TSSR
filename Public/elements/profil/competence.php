@@ -25,10 +25,12 @@
                 <div class="d-flex justify-content-around">
                     <div class="applis">Packet Tracer</div>
                     <div class="applis">GLPI</div>
-                    <div class="applis">OCS Inventory</div>
+                    <!-- <div class="applis">OCS Inventory</div> -->
+                    <div class="applis">ServiceNow</div>
                     <div class="applis">Microsoft 365 (Teams, Word, Excel, PPT)</div>
                     <!-- <div class="applis">TeamViewer</div> -->
                     <div class="applis">AnyDesk</div>
+                    <div class="applis">BeyondTrust</div>
                 </div>
             </div>
         </div>
@@ -42,15 +44,16 @@
                     <div class="os">MacOS</div>
                     <div class="os">Linux (Debian)</div>
                     <!-- <div class="os">Windows Server 2016</div> -->
-                    <div class="os">PFsense</div>
+                    <div class="os">pfSense</div>
                 </div>
             </div>
             <div class="col-lg-3">
             <h5 class="card-title">Virtualisation</h5>
                 <hr>
                 <div class="d-flex justify-content-center">
-                    <div class="virtual mx-2">VMWare</div>
-                    <div class="virtual mx-2">Hyper-V</div>
+                    <div class="virtual mx-2 my-auto">VMWare</div>
+                    <!-- <div class="virtual mx-2">Hyper-V</div> -->
+                    <div class="virtual mx-2">Citrix Workspace</div>
                     <!-- <div class="virtual mx-2">Virtualbox</div> -->
                 </div>
             </div>
