@@ -12,7 +12,7 @@
                     <div class="technos">HTTP</div>
                     <div class="technos">SMTP</div>
                     <div class="technos">TCP/IP</div>
-                    <div class="technos">ARP</div>
+                    <!-- <div class="technos">ARP</div> -->
                     <div class="technos">ICMP</div>
                 </div>
             </div>
@@ -41,10 +41,11 @@
                 <hr>
                 <div class="d-flex justify-content-around">
                     <div class="os">Windows (10, Server 2016)</div>
-                    <div class="os">MacOS</div>
+                    <div class="os">Apple (MacOS, iOS)</div>
                     <div class="os">Linux (Debian)</div>
                     <!-- <div class="os">Windows Server 2016</div> -->
                     <div class="os">pfSense</div>
+                    <div class="os">Android</div>
                 </div>
             </div>
             <div class="col-lg-3">

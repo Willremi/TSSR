@@ -47,6 +47,10 @@ hr {
     color: var(--blue);
 }
 
+#intro {
+    font-weight: 600;
+}
+
 #job {
     text-align: center;
     font-family: var(--roboto) !important;

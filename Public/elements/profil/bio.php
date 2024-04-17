@@ -5,7 +5,7 @@
                 <div class="card-body">
                     <div class="h4 mt-0 title" id="bio">À propose de moi</div>
                     <hr>
-                    <p>En reconversion professionnelle, je suis actuellement en formation de Technicien Supérieur Systèmes et Réseaux à l’AFCI d’Arras. À ce titre, je recherche un stage conventionné non rémunéré de deux mois à partir du 13/11/2023 au 12/01/2024.</p>
+                    <p id="intro">Titulaire d'un titre professionnelle de Technicien Supérieur Systèmes et Réseaux dont j'ai acquis des compétences dans le déploiement de Windows, la gestion de serveurs de fichiers et l'utilisation de logiciels de virtualisation. Fort d'un mois d'expérience en tant que technicien support informatique, je suis prêt à mettre en pratique mes connaissances et compétences au sein de l'entreprise.</p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
