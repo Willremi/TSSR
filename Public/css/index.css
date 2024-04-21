@@ -47,9 +47,17 @@ hr {
     color: var(--blue);
 }
 
+#intro {
+    font-weight: 600;
+}
+
 #job {
     text-align: center;
     font-family: var(--roboto) !important;
+}
+
+#emeis {
+    margin-top: 65%;
 }
 
 #ligne {
@@ -166,6 +174,10 @@ li, #activity, .device {
 }
 
 @media screen and (max-width: 900px) {
+    #emeis {
+        margin-top: 0;
+    }
+
     #logos>a>img {
         width: 95px;
         height: auto;
@@ -189,6 +201,10 @@ li, #activity, .device {
 }
 
 @media screen and (max-width: 1000px) {
+    #emeis {
+        margin-top: 0;
+    }
+
     #os>img {
         width: 16% !important;
         height: auto;
