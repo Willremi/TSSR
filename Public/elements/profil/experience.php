@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header" style="margin-top: 50%;">
-                    <p>25/04/2024 au 16/04/2024</p>
+                    <p>25/03/2024 au 16/04/2024</p>
                     <div class="h5">Helpline - Marcq-en-Baroeul</div>
                 </div>
             </div>
