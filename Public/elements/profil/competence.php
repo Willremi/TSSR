@@ -42,7 +42,7 @@
                 <div class="d-flex justify-content-around">
                     <div class="os">Windows (10, Server 2016)</div>
                     <div class="os">Apple (MacOS, iOS)</div>
-                    <div class="os">Linux (Debian)</div>
+                    <div class="os">Linux (Debian 12)</div>
                     <!-- <div class="os">Windows Server 2016</div> -->
                     <div class="os">pfSense</div>
                     <div class="os">Android</div>
