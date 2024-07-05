@@ -4,13 +4,8 @@
     <div class="card">
         <div class="row">
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-<<<<<<< HEAD
                 <div class="card-body cc-experience-header" style="margin-top: 50%;">
                     <p>25/03/2024 au 16/04/2024</p>
-=======
-                <div class="card-body cc-experience-header" id="emeis">
-                    <p>25/04/2024 au 16/04/2024</p>
->>>>>>> 3eb5898f53baeb94e7d4a6dfb56fa8e7906236d4
                     <div class="h5">Helpline - Marcq-en-Baroeul</div>
                 </div>
             </div>
