@@ -161,7 +161,7 @@
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
                     <p>Novembre - Décembre 2014</p>
-                    <div class="h5">Préfecture du Päs de Calais - Arras (62)</div>
+                    <div class="h5">Préfecture du Pas de Calais - Arras (62)</div>
                 </div>
             </div>
             <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -181,7 +181,7 @@
             <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
                     <p>Janvier 2014</p>
-                    <div class="h5">Préfecture du Päs de Calais - Arras (62)</div>
+                    <div class="h5">Préfecture du Pas de Calais - Arras (62)</div>
                 </div>
             </div>
             <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
